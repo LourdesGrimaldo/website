@@ -1,0 +1,7 @@
+h1 {
+	color:#FF69B4
+}
+body {
+    background-color: lightblue;
+}
+p.dotted {border-style: dotted;}
